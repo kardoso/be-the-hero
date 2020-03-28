@@ -1,13 +1,27 @@
 <center>
 
-![OmniStack 11.0](./static/omnistack.svg)
+<h1 align="center">
+  <img src="./static/omnistack.svg" />
+</h1>
 
-Projeto **Be The Hero** desenvolvido durante a Semana Omnistack 11 da Rocketseat
+<p align="center">
+  Projeto <b>Be The Hero</b> desenvolvido durante a Semana Omnistack 11 da Rocketseat
+</p>
 
-[![](https://img.shields.io/badge/node.js@lts-12.16.1-informational?logo=Node.JS)](https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.16.1)
-[![](https://img.shields.io/badge/react-16.13.1-informational?logo=react)](https://github.com/facebook/react/blob/master/CHANGELOG.md#16131-march-19-2020)
-[![](https://img.shields.io/badge/expo--CLI-3.15.5-informational?logo=expo)](https://www.npmjs.com/package/expo-cli/v/3.15.5)
-[![](https://img.shields.io/badge/OmniStack-done-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==)](https://rocketseat.com.br/week/aulas/11.0)
+<p align="center">
+  <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.16.1">
+    <img src="https://img.shields.io/badge/node.js@lts-12.16.1-informational?logo=Node.JS" />
+  </a>
+  <a aria-label="Versão do React" href="https://github.com/facebook/react/blob/master/CHANGELOG.md#16131-march-19-2020">
+    <img src="https://img.shields.io/badge/react-16.13.1-informational?logo=react" />
+  </a>
+  <a aria-label="Versão do Expo" href="https://www.npmjs.com/package/expo-cli/v/3.15.5">
+    <img src="https://img.shields.io/badge/expo--CLI-3.15.5-informational?logo=expo" />
+  </a>
+  <a aria-label="Completo" href="https://www.npmjs.com/package/expo-cli/v/3.15.5">
+    <img src="https://img.shields.io/badge/OmniStack-done-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
+  </a>
+</p>
 
 </center>
 
@@ -24,13 +38,11 @@ A versão web da aplicação foi feita pensando na ONG. Será por ela que a ONG 
 
 A versão mobile da aplicação foi pensada para os financiadores(Heróis). Pela aplicação mobile é possível ver casos de todas as ONG's e entrar em contato com a mesma tanto por WhatsApp quanto por E-mail.
 
-<center>
-<p float="left">
+<p float="left" align="center">
   <img src="./static/splash_screen.jpg" width="240" />
   <img src="./static/index_casos.jpg" width="240" /> 
   <img src="./static/caso.jpg" width="240" />
 </p>
-</center>
 
 ## Instalação
 Para instalar as dependências e executar o **Servidor** (modo desenvolvimento), clone o projeto em seu computador e em seguida execute:
